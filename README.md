@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@
   </a>
 </div>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - **DagangCerdas**: Prototipe aplikasi mobile untuk membantu manajemen inventaris pedagang skala kecil.
 - **Medan Trails**: Progressive Web App (PWA) pariwisata dan budaya dengan integrasi mesin pemetaan dan database geospasial.
