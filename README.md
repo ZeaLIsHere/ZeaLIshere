@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Fullstack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+</div>
 
-<!--
-**ZeaLIsHere/ZeaLIshere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/ZeaLIsHere">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZeaLIsHere&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+##  Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,react,vue,tailwind,vite,firebase" alt="Tech Stack" />
+  </a>
+</div>
+
+##  Featured Projects
+
+- **DagangCerdas**: Prototipe aplikasi mobile untuk membantu manajemen inventaris pedagang skala kecil.
+- **Medan Trails**: Progressive Web App (PWA) pariwisata dan budaya dengan integrasi mesin pemetaan dan database geospasial.
+- **Laptop Price Prediction**: Model machine learning untuk memprediksi harga berdasarkan dataset spesifikasi laptop.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeaLIsHere/ZeaLIsHere/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeaLIsHere/ZeaLIsHere/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZeaLIsHere/ZeaLIsHere/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
