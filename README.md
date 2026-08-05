@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Fullstack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Fullstack+Developer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/ZeaLIsHere">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZeaLIsHere&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZeaLIsHere&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
 </div>
 
@@ -18,8 +18,8 @@
 
 ##  Featured Projects
 
-- **DagangCerdas**: Aplikasi Smart POS dan Asisten AI untuk membantu manajemen inventaris UMKM.
-- **MedanSimpang**: Progressive Web App pariwisata dan budaya Kota Medan.
+- **DagangCerdas**: Aplikasi Smart POS dan Asisten AI untuk membantu manajemen UMKM.
+- **MedanSimpang**: Progressive Web App (PWA) pariwisata dan budaya dengan integrasi mesin pemetaan dan database geospasial Kota Medan.
 
 <div align="center">
   <picture>
