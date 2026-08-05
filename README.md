@@ -18,9 +18,8 @@
 
 ##  Featured Projects
 
-- **DagangCerdas**: Prototipe aplikasi mobile untuk membantu manajemen inventaris pedagang skala kecil.
-- **Medan Trails**: Progressive Web App (PWA) pariwisata dan budaya dengan integrasi mesin pemetaan dan database geospasial.
-- **Laptop Price Prediction**: Model machine learning untuk memprediksi harga berdasarkan dataset spesifikasi laptop.
+- **DagangCerdas**: Aplikasi Smart POS dan Asisten AI untuk membantu manajemen inventaris UMKM.
+- **MedanSimpang**: Progressive Web App pariwisata dan budaya Kota Medan.
 
 <div align="center">
   <picture>
