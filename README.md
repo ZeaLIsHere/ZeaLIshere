@@ -4,11 +4,11 @@
 
 <div align="center">
   <a href="https://github.com/ZeaLIsHere">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZeaLIsHere&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ZeaLIsHere&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
   </a>
 </div>
 
-##  Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@
   </a>
 </div>
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 - **DagangCerdas**: Prototipe aplikasi mobile untuk membantu manajemen inventaris pedagang skala kecil.
 - **Medan Trails**: Progressive Web App (PWA) pariwisata dan budaya dengan integrasi mesin pemetaan dan database geospasial.
